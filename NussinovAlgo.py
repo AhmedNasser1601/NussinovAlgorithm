@@ -6,6 +6,7 @@ Created on Tue Apr 19 02:57:31 2022
 """
 import numpy as np
 
+
 def checkMatch(x, y):
     matchGC = [('G', 'C'), ('C', 'G')]
     matchAU = [('A', 'U'), ('U', 'A')]
